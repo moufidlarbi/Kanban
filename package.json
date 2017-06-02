@@ -1,0 +1,15 @@
+{
+  "name": "kanban_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-libs-browser": "^2.0.0",
+    "webpack": "^2.6.1"
+  }
+}
